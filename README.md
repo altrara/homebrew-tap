@@ -1,8 +1,11 @@
 # Altrara Homebrew tap
 
 ```sh
+brew trust altrara/tap
 brew install --cask altrara/tap/gridwink
 ```
+
+Homebrew 7 and later only load casks from taps you've trusted, so run `brew trust` once first.
 
 | Cask | App |
 | --- | --- |
