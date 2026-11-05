@@ -1,6 +1,6 @@
 cask "gridwink" do
-  version "1.0.1"
-  sha256 "c425fd2a64ea93eac6cfcb49f6a8e5f2152101716050bc5806966484f95a587f"
+  version "1.0.2"
+  sha256 "c081ddd21720dc0a0e3bf94747636c3d8cb7145ceb4e05290e7cbec4420190bb"
 
   url "https://altrara.ai/downloads/gridwink/Gridwink-#{version}.dmg"
   name "Gridwink"
